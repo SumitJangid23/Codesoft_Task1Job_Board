@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+**/node_modules
+
+# Environment variables (VERY IMPORTANT 🔐)
+.env
+**/.env
+
+# Build files
+dist
+**/dist
+
+# Uploads (user files like resumes/images)
+uploads
+backend/uploads
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional (editor files)
+.vscode
+.idea
