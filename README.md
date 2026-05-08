@@ -140,4 +140,4 @@ Sumit Jangid
 
 License
 
-This project is for educational and internship purposes.
+
